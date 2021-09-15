@@ -1,4 +1,24 @@
----------------------------------------------------------------------------------
+2021-09-15
+Contract best practices
+https://github.com/near/near-sdk-rs/blob/master/HELP.md
+@post
+#near #rust
+
+2021-09-14
+Grammarly is a cross-platform cloud-based writing assistant
+https://www.grammarly.com/
+@soft
+
+The Beginner’s Guide to the NEAR Blockchain
+https://near.org/blog/the-beginners-guide-to-the-near-blockchain/
+@post
+#near
+
+NEAR Documentation
+https://docs.near.org
+@documentation
+#near
+
 2021-09-13
 NEAR Protocol Specification
 https://nomicon.io
